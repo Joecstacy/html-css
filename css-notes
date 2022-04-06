@@ -1,0 +1,42 @@
+there are three types of CSS:
+1. Inline
+2. Internal or Embeded
+3. External
+
+--- BASIC HTML PAGE----
+<!DOCTYPE html>
+<html>
+<head>
+    <title> THIS IS GITHUB CSS NOTES</title>
+      <!-- Stylesheet of web page -->
+    <style></style>
+</head>
+ <body>
+    <!-- Body section of web page -->
+</body>
+ </html>
+ 
+ ------BASIC HTML WITH CSS STYLE-----
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Simple webpage
+    </title>
+    <!-- Stylesheet of web page -->
+    <style>
+        body {
+            text-align: center;
+        }
+        h1 {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to JOECSTACY GITHUB</h1>
+ 
+    <p>CSS NOTES </p>
+</body>
+ 
+</html>
