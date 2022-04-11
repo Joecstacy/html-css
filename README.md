@@ -11,4 +11,5 @@ Also some notes regarding css and html topic.
 	PrintWriter out=res.getWriter();
 	out.println("<body style=\"background-color:pink;\">");
   //setting the color to the response page
+  
   out.println("<marquee> <br><br> YO YOU HAVE DONE IT !!!! </marquee>");
