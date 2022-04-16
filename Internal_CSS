@@ -1,0 +1,38 @@
+#INTERNAL CSS STYLING
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>CSS styling code</title>
+<style>
+body {
+	background-color: blue;
+	text-align: center;
+	}
+h1 {
+	color: white;
+	text-align: centre;
+	}
+h2 {
+	color: pink;
+	text-align: left;
+	margin-left:40px;
+	}
+p {
+	color: yellow;
+	text-align: center;
+	}
+</style>
+</head>
+<body>
+<h1> This is h1 tag!</h1>
+<br>
+<h2> This is h2 tag!</h2>
+<br>
+<p> This is paragraph!
+Internal styles are defined within the 
+style element, inside the head section of an HTML page.
+</p>
+</body>
+</html>
