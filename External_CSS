@@ -1,0 +1,37 @@
+# HOW TO CREATE EXTERNAL CSS
+
+With an external style sheet, you can change the look of an entire website by changing just one file!
+in this we are having two files.
+1. html file.
+2. css file.
+
+1. HTML file code:- 
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title>
+this is external CSS</title>
+</hread>
+<body>
+<marquee> HELLO WORLD !!</marquee>
+<h1> This is H1 tag</h1>
+<br>
+<p> THIs is the paragraph</p>
+</body>
+</html>
+
+2. CSS FILE. (saved as "style.css")
+NOTE: its important that the notepad file should save as '.css'
+body{
+	background-color: blue;
+}
+h1 {color: white;
+	text-align: center;
+}
+p{color: pink;
+	text-align:right;
+}
+marquee{
+	color: black;
+	}
