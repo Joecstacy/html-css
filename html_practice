@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style1.css">
+<title>
+This is the practice HTML page !
+</title>
+<style>
+body{
+    background-color: powderblue;
+    background-image: url("css1.jpeg");
+}
+h1{
+    text-color: red;
+    text-align: center;
+}
+p{
+    text-color: blue;
+    text-align: center;
+}
+</head>
+<body>
+<marquee> this is the moving tag</marquee><br>
+<h1> This is the HOME page !!</h1>
+<br>
+<h1> 9th MAY born personality.</hr>
+<br>
+<p> Realizing that one should “practice what he preaches,” those born on May 9 set examples for their children.</p>
+</body>
+</html>
